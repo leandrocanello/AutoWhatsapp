@@ -1,0 +1,60 @@
+Date: 23/7/2024
+Time: 20:14
+Phone Number: +5511999999999
+Message: Teste, mensagem automatica.
+--------------------
+Date: 23/7/2024
+Time: 20:16
+Phone Number: +55498971269
+Message: Teste, mensagem automatica.
+--------------------
+Date: 23/7/2024
+Time: 20:18
+Phone Number: +554989071269
+Message: Teste, mensagem automatica.
+--------------------
+Date: 23/7/2024
+Time: 20:20
+Phone Number: +554989071269
+Message: Teste, mensagem automatica.
+--------------------
+Date: 23/7/2024
+Time: 20:23
+Phone Number: +554989071269
+Message: Teste, mensagem automatica.
+--------------------
+Date: 23/7/2024
+Time: 20:27
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
+Date: 23/7/2024
+Time: 20:29
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
+Date: 23/7/2024
+Time: 20:51
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
+Date: 23/7/2024
+Time: 20:58
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
+Date: 23/7/2024
+Time: 21:1
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
+Date: 23/7/2024
+Time: 21:11
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
+Date: 23/7/2024
+Time: 21:24
+Phone Number: +554989071269
+Message: Teste automação com números não salvos.
+--------------------
